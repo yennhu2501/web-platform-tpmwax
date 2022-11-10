@@ -1,4 +1,4 @@
-import turtle
+
 pen = turtle.Turtle() 
 def curve(): 
 
